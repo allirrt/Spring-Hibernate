@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Maven: javax.servlet:javax.servlet-api:4.0.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Downloads/spring-5.2.9.RELEASE-dist/spring-framework-5.2.9.RELEASE/docs/javadoc-api" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
